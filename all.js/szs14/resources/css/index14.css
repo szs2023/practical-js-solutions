@@ -8,7 +8,7 @@
     background: url(../resources/images/about.jpg);
     min-height: 100vh;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     position: relative;
   }
