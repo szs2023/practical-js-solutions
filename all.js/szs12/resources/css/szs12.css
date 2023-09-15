@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.herro-images-one img{
+    width: 400px;
+    height: 200px;
+    border-radius: 20%;
+
+}
+.herro-images-tre img{
+    width: 200px;
+    height: 300px;
+    border-radius: 50%;
+}
+.herro-images-tre{
+    width: 60%;
+    margin: auto;
+    margin-top: 60px;
+    cursor: pointer;
+    
+}
+.herro-images-one{
+    position: relative;
+    top: 40px;
+    width: 40%;
+    margin: auto;
+    
+}
